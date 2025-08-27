@@ -1,0 +1,1 @@
+INSERT INTO cliente (id, name, email, created_at) VALUES (1, 'Ana Perez', 'ana@ejemplo.com', CURRENT_TIMESTAMP);

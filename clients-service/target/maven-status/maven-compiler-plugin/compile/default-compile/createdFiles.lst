@@ -1,0 +1,7 @@
+com/banking/clients/service/service/ClientService.class
+com/banking/clients/service/entity/Client.class
+com/banking/clients/service/service/ClientServiceImpl.class
+com/banking/clients/service/dto/ClientDTO.class
+com/banking/clients/service/App.class
+com/banking/clients/service/controller/ClientController.class
+com/banking/clients/service/repository/ClientRepository.class

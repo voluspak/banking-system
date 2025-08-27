@@ -1,0 +1,7 @@
+/Users/ivantelleria/NetBeansProjects/banking-system/clients-service/src/main/java/com/banking/clients/service/App.java
+/Users/ivantelleria/NetBeansProjects/banking-system/clients-service/src/main/java/com/banking/clients/service/controller/ClientController.java
+/Users/ivantelleria/NetBeansProjects/banking-system/clients-service/src/main/java/com/banking/clients/service/dto/ClientDTO.java
+/Users/ivantelleria/NetBeansProjects/banking-system/clients-service/src/main/java/com/banking/clients/service/entity/Client.java
+/Users/ivantelleria/NetBeansProjects/banking-system/clients-service/src/main/java/com/banking/clients/service/repository/ClientRepository.java
+/Users/ivantelleria/NetBeansProjects/banking-system/clients-service/src/main/java/com/banking/clients/service/service/ClientService.java
+/Users/ivantelleria/NetBeansProjects/banking-system/clients-service/src/main/java/com/banking/clients/service/service/ClientServiceImpl.java
