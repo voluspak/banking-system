@@ -26,7 +26,8 @@ public class ClientController {
     }
     
     @GetMapping("/{id}")
-    public ResponseEntity<ClientDTO> get(@PathVariable Long id) {
+    public ResponseEntity<ClientDTO> get(@PathVariable("id") Long id) {
+        ClientDTO dto = service.getById(id);
         return ResponseEntity.ok(service.getById(id));
     }
     
@@ -36,7 +37,7 @@ public class ClientController {
     }
     
     @DeleteMapping("/{id}")
-    public ResponseEntity<Void> remove(@PathVariable Long id) {
+    public ResponseEntity<Void> remove(@PathVariable("id") Long id) {
         service.removeClient(id);
         return ResponseEntity.noContent().build();
     }
